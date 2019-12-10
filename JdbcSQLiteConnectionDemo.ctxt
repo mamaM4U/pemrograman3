@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=JdbcSQLiteConnectionDemo
+comment0.text=\n\ Program\ untuk\ membuat\ koneksi\ ke\ database\ SQLite.\n\ @author\ http\://nursalim83.blogspot.com\n\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
